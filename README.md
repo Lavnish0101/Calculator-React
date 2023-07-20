@@ -2,6 +2,8 @@
 
 This is a simple calculator application built using React. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+Here is the link to the fully deployed React Calculator app - https://calculator-react-lavnish.netlify.app/
+
 ## Features
 
 - User-friendly interface
